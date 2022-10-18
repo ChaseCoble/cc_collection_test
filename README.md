@@ -1,0 +1,1 @@
+This python demonstration shows my ability to utilize collections and various datatypes, as well as basic mathematical functions.
